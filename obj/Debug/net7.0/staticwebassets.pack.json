@@ -1,0 +1,2745 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/obj/Debug/net7.0/scopedcss/projectbundle/ExplorPlanner.bundle.scp.css",
+      "PackagePath": "staticwebassets/ExplorPlanner.bundle.scp.css"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/css/site.css",
+      "PackagePath": "staticwebassets/css/site.css"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/favicon.ico",
+      "PackagePath": "staticwebassets/favicon.ico"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/BDA777_hiking_illustration_in_the_style_of_jon_klassen_with_whi_22ae08d7-d570-4aa4-a872-ef8b2652592b.png",
+      "PackagePath": "staticwebassets/img/BDA777_hiking_illustration_in_the_style_of_jon_klassen_with_whi_22ae08d7-d570-4aa4-a872-ef8b2652592b.png"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/BDA777_hiking_illustration_in_the_style_of_jon_klassen_with_whi_242c989e-4e97-4e5d-812c-3079fde84a32.png",
+      "PackagePath": "staticwebassets/img/BDA777_hiking_illustration_in_the_style_of_jon_klassen_with_whi_242c989e-4e97-4e5d-812c-3079fde84a32.png"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/BDA777_hiking_illustration_in_the_style_of_jon_klassen_with_whi_39a3015d-7323-4ac8-a94e-51cc7117244f.png",
+      "PackagePath": "staticwebassets/img/BDA777_hiking_illustration_in_the_style_of_jon_klassen_with_whi_39a3015d-7323-4ac8-a94e-51cc7117244f.png"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/BDA777_hiking_illustration_in_the_style_of_jon_klassen_with_whi_3c842ca2-270a-46ac-9aba-aad5be98b698.png",
+      "PackagePath": "staticwebassets/img/BDA777_hiking_illustration_in_the_style_of_jon_klassen_with_whi_3c842ca2-270a-46ac-9aba-aad5be98b698.png"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/BDA777_hiking_illustration_in_the_style_of_jon_klassen_with_whi_49ddeb30-232a-4227-b878-a85d31e504ea.png",
+      "PackagePath": "staticwebassets/img/BDA777_hiking_illustration_in_the_style_of_jon_klassen_with_whi_49ddeb30-232a-4227-b878-a85d31e504ea.png"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/BDA777_hiking_illustration_in_the_style_of_jon_klassen_with_whi_7de81522-c59b-4372-8d08-00131eba8d32.png",
+      "PackagePath": "staticwebassets/img/BDA777_hiking_illustration_in_the_style_of_jon_klassen_with_whi_7de81522-c59b-4372-8d08-00131eba8d32.png"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/BDA777_travel_agency_illustration_in_the_style_of_jon_klassen_w_de140ec6-6831-4a87-b725-936e915d88cb.png",
+      "PackagePath": "staticwebassets/img/BDA777_travel_agency_illustration_in_the_style_of_jon_klassen_w_de140ec6-6831-4a87-b725-936e915d88cb.png"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/BDA777_travel_illustration_in_the_style_of_jon_klassen_with_whi_30c67c52-2404-4c94-a9e4-9b6eb47085c9.png",
+      "PackagePath": "staticwebassets/img/BDA777_travel_illustration_in_the_style_of_jon_klassen_with_whi_30c67c52-2404-4c94-a9e4-9b6eb47085c9.png"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/BDA777_travel_illustration_in_the_style_of_jon_klassen_with_whi_81029869-2915-41ce-a3e0-68fe486a59c5.png",
+      "PackagePath": "staticwebassets/img/BDA777_travel_illustration_in_the_style_of_jon_klassen_with_whi_81029869-2915-41ce-a3e0-68fe486a59c5.png"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/.babelrc.js",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/.babelrc.js"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/.browserslistrc",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/.browserslistrc"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/.bundlewatch.config.json",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/.bundlewatch.config.json"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/.editorconfig",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/.editorconfig"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/.eslintignore",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/.eslintignore"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/.eslintrc.json",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/.eslintrc.json"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/.gitattributes",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/.gitattributes"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/.gitignore",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/.gitignore"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/.stylelintignore",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/.stylelintignore"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/.stylelintrc",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/.stylelintrc"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/CODE_OF_CONDUCT.md",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/CODE_OF_CONDUCT.md"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/LICENSE",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/README.md",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/README.md"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/SECURITY.md",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/SECURITY.md"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/build/.eslintrc.json",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/build/.eslintrc.json"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/build/banner.js",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/build/banner.js"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/build/build-plugins.js",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/build/build-plugins.js"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/build/change-version.js",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/build/change-version.js"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/build/generate-sri.js",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/build/generate-sri.js"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/build/postcss.config.js",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/build/postcss.config.js"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/build/rollup.config.js",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/build/rollup.config.js"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/build/svgo.yml",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/build/svgo.yml"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/build/vnu-jar.js",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/build/vnu-jar.js"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/build/zip-examples.js",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/build/zip-examples.js"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/composer.json",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/composer.json"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/config.yml",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/config.yml"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/dist/css/bootstrap-grid.css",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/dist/css/bootstrap-grid.css"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/dist/css/bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/dist/css/bootstrap-grid.css.map"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/dist/css/bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/dist/css/bootstrap-grid.min.css"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/dist/css/bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/dist/css/bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/dist/css/bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/dist/css/bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/dist/css/bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/dist/css/bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/dist/css/bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/dist/css/bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/dist/css/bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/dist/css/bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/dist/css/bootstrap-reboot.css",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/dist/css/bootstrap-reboot.css"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/dist/css/bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/dist/css/bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/dist/css/bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/dist/css/bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/dist/css/bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/dist/css/bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/dist/css/bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/dist/css/bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/dist/css/bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/dist/css/bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/dist/css/bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/dist/css/bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/dist/css/bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/dist/css/bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/dist/css/bootstrap-utilities.css",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/dist/css/bootstrap-utilities.css"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/dist/css/bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/dist/css/bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/dist/css/bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/dist/css/bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/dist/css/bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/dist/css/bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/dist/css/bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/dist/css/bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/dist/css/bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/dist/css/bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/dist/css/bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/dist/css/bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/dist/css/bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/dist/css/bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/dist/css/bootstrap.css",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/dist/css/bootstrap.css"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/dist/css/bootstrap.css.map",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/dist/css/bootstrap.css.map"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/dist/css/bootstrap.min.css",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/dist/css/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/dist/css/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/dist/css/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/dist/css/bootstrap.rtl.css",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/dist/css/bootstrap.rtl.css"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/dist/css/bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/dist/css/bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/dist/css/bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/dist/css/bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/dist/css/bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/dist/css/bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/dist/js/bootstrap.bundle.js",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/dist/js/bootstrap.bundle.js"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/dist/js/bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/dist/js/bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/dist/js/bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/dist/js/bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/dist/js/bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/dist/js/bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/dist/js/bootstrap.esm.js",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/dist/js/bootstrap.esm.js"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/dist/js/bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/dist/js/bootstrap.esm.js.map"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/dist/js/bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/dist/js/bootstrap.esm.min.js"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/dist/js/bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/dist/js/bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/dist/js/bootstrap.js",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/dist/js/bootstrap.js"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/dist/js/bootstrap.js.map",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/dist/js/bootstrap.js.map"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/dist/js/bootstrap.min.js",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/dist/js/bootstrap.min.js"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/dist/js/bootstrap.min.js.map",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/dist/js/bootstrap.min.js.map"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/js/dist/alert.js",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/js/dist/alert.js"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/js/dist/alert.js.map",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/js/dist/alert.js.map"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/js/dist/base-component.js",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/js/dist/base-component.js"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/js/dist/base-component.js.map",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/js/dist/base-component.js.map"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/js/dist/button.js",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/js/dist/button.js"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/js/dist/button.js.map",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/js/dist/button.js.map"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/js/dist/carousel.js",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/js/dist/carousel.js"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/js/dist/carousel.js.map",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/js/dist/carousel.js.map"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/js/dist/collapse.js",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/js/dist/collapse.js"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/js/dist/collapse.js.map",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/js/dist/collapse.js.map"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/js/dist/dom/data.js",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/js/dist/dom/data.js"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/js/dist/dom/data.js.map",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/js/dist/dom/data.js.map"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/js/dist/dom/event-handler.js",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/js/dist/dom/event-handler.js"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/js/dist/dom/event-handler.js.map",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/js/dist/dom/event-handler.js.map"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/js/dist/dom/manipulator.js",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/js/dist/dom/manipulator.js"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/js/dist/dom/manipulator.js.map",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/js/dist/dom/manipulator.js.map"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/js/dist/dom/selector-engine.js",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/js/dist/dom/selector-engine.js"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/js/dist/dom/selector-engine.js.map",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/js/dist/dom/selector-engine.js.map"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/js/dist/dropdown.js",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/js/dist/dropdown.js"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/js/dist/dropdown.js.map",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/js/dist/dropdown.js.map"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/js/dist/modal.js",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/js/dist/modal.js"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/js/dist/modal.js.map",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/js/dist/modal.js.map"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/js/dist/offcanvas.js",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/js/dist/offcanvas.js"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/js/dist/offcanvas.js.map",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/js/dist/offcanvas.js.map"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/js/dist/popover.js",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/js/dist/popover.js"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/js/dist/popover.js.map",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/js/dist/popover.js.map"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/js/dist/scrollspy.js",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/js/dist/scrollspy.js"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/js/dist/scrollspy.js.map",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/js/dist/scrollspy.js.map"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/js/dist/tab.js",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/js/dist/tab.js"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/js/dist/tab.js.map",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/js/dist/tab.js.map"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/js/dist/toast.js",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/js/dist/toast.js"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/js/dist/toast.js.map",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/js/dist/toast.js.map"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/js/dist/tooltip.js",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/js/dist/tooltip.js"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/js/dist/tooltip.js.map",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/js/dist/tooltip.js.map"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/js/index.esm.js",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/js/index.esm.js"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/js/index.umd.js",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/js/index.umd.js"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/js/src/alert.js",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/js/src/alert.js"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/js/src/base-component.js",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/js/src/base-component.js"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/js/src/button.js",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/js/src/button.js"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/js/src/carousel.js",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/js/src/carousel.js"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/js/src/collapse.js",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/js/src/collapse.js"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/js/src/dom/data.js",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/js/src/dom/data.js"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/js/src/dom/event-handler.js",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/js/src/dom/event-handler.js"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/js/src/dom/manipulator.js",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/js/src/dom/manipulator.js"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/js/src/dom/selector-engine.js",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/js/src/dom/selector-engine.js"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/js/src/dropdown.js",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/js/src/dropdown.js"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/js/src/modal.js",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/js/src/modal.js"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/js/src/offcanvas.js",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/js/src/offcanvas.js"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/js/src/popover.js",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/js/src/popover.js"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/js/src/scrollspy.js",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/js/src/scrollspy.js"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/js/src/tab.js",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/js/src/tab.js"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/js/src/toast.js",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/js/src/toast.js"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/js/src/tooltip.js",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/js/src/tooltip.js"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/js/src/util/backdrop.js",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/js/src/util/backdrop.js"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/js/src/util/index.js",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/js/src/util/index.js"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/js/src/util/sanitizer.js",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/js/src/util/sanitizer.js"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/js/src/util/scrollbar.js",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/js/src/util/scrollbar.js"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/js/tests/README.md",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/js/tests/README.md"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/js/tests/browsers.js",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/js/tests/browsers.js"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/js/tests/helpers/fixture.js",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/js/tests/helpers/fixture.js"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/js/tests/integration/bundle-modularity.js",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/js/tests/integration/bundle-modularity.js"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/js/tests/integration/bundle.js",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/js/tests/integration/bundle.js"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/js/tests/integration/index.html",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/js/tests/integration/index.html"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/js/tests/integration/rollup.bundle-modularity.js",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/js/tests/integration/rollup.bundle-modularity.js"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/js/tests/integration/rollup.bundle.js",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/js/tests/integration/rollup.bundle.js"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/js/tests/karma.conf.js",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/js/tests/karma.conf.js"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/js/tests/unit/.eslintrc.json",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/js/tests/unit/.eslintrc.json"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/js/tests/unit/alert.spec.js",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/js/tests/unit/alert.spec.js"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/js/tests/unit/base-component.spec.js",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/js/tests/unit/base-component.spec.js"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/js/tests/unit/button.spec.js",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/js/tests/unit/button.spec.js"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/js/tests/unit/carousel.spec.js",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/js/tests/unit/carousel.spec.js"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/js/tests/unit/collapse.spec.js",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/js/tests/unit/collapse.spec.js"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/js/tests/unit/dom/data.spec.js",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/js/tests/unit/dom/data.spec.js"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/js/tests/unit/dom/event-handler.spec.js",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/js/tests/unit/dom/event-handler.spec.js"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/js/tests/unit/dom/manipulator.spec.js",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/js/tests/unit/dom/manipulator.spec.js"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/js/tests/unit/dom/selector-engine.spec.js",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/js/tests/unit/dom/selector-engine.spec.js"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/js/tests/unit/dropdown.spec.js",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/js/tests/unit/dropdown.spec.js"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/js/tests/unit/jquery.spec.js",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/js/tests/unit/jquery.spec.js"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/js/tests/unit/modal.spec.js",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/js/tests/unit/modal.spec.js"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/js/tests/unit/offcanvas.spec.js",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/js/tests/unit/offcanvas.spec.js"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/js/tests/unit/popover.spec.js",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/js/tests/unit/popover.spec.js"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/js/tests/unit/scrollspy.spec.js",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/js/tests/unit/scrollspy.spec.js"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/js/tests/unit/tab.spec.js",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/js/tests/unit/tab.spec.js"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/js/tests/unit/toast.spec.js",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/js/tests/unit/toast.spec.js"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/js/tests/unit/tooltip.spec.js",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/js/tests/unit/tooltip.spec.js"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/js/tests/unit/util/backdrop.spec.js",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/js/tests/unit/util/backdrop.spec.js"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/js/tests/unit/util/index.spec.js",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/js/tests/unit/util/index.spec.js"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/js/tests/unit/util/sanitizer.spec.js",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/js/tests/unit/util/sanitizer.spec.js"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/js/tests/unit/util/scrollbar.spec.js",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/js/tests/unit/util/scrollbar.spec.js"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/js/tests/visual/alert.html",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/js/tests/visual/alert.html"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/js/tests/visual/button.html",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/js/tests/visual/button.html"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/js/tests/visual/carousel.html",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/js/tests/visual/carousel.html"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/js/tests/visual/collapse.html",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/js/tests/visual/collapse.html"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/js/tests/visual/dropdown.html",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/js/tests/visual/dropdown.html"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/js/tests/visual/modal.html",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/js/tests/visual/modal.html"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/js/tests/visual/popover.html",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/js/tests/visual/popover.html"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/js/tests/visual/scrollspy.html",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/js/tests/visual/scrollspy.html"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/js/tests/visual/tab.html",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/js/tests/visual/tab.html"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/js/tests/visual/toast.html",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/js/tests/visual/toast.html"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/js/tests/visual/tooltip.html",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/js/tests/visual/tooltip.html"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/nuget/MyGet.ps1",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/nuget/MyGet.ps1"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/nuget/bootstrap.nuspec",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/nuget/bootstrap.nuspec"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/nuget/bootstrap.png",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/nuget/bootstrap.png"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/nuget/bootstrap.sass.nuspec",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/nuget/bootstrap.sass.nuspec"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/package-lock.json",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/package-lock.json"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/package.js",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/package.js"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/package.json",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/package.json"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/scss/_accordion.scss",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/scss/_accordion.scss"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/scss/_alert.scss",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/scss/_alert.scss"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/scss/_badge.scss",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/scss/_badge.scss"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/scss/_breadcrumb.scss",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/scss/_breadcrumb.scss"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/scss/_button-group.scss",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/scss/_button-group.scss"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/scss/_buttons.scss",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/scss/_buttons.scss"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/scss/_card.scss",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/scss/_card.scss"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/scss/_carousel.scss",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/scss/_carousel.scss"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/scss/_close.scss",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/scss/_close.scss"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/scss/_containers.scss",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/scss/_containers.scss"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/scss/_dropdown.scss",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/scss/_dropdown.scss"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/scss/_forms.scss",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/scss/_forms.scss"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/scss/_functions.scss",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/scss/_functions.scss"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/scss/_grid.scss",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/scss/_grid.scss"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/scss/_helpers.scss",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/scss/_helpers.scss"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/scss/_images.scss",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/scss/_images.scss"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/scss/_list-group.scss",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/scss/_list-group.scss"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/scss/_mixins.scss",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/scss/_mixins.scss"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/scss/_modal.scss",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/scss/_modal.scss"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/scss/_nav.scss",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/scss/_nav.scss"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/scss/_navbar.scss",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/scss/_navbar.scss"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/scss/_offcanvas.scss",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/scss/_offcanvas.scss"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/scss/_pagination.scss",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/scss/_pagination.scss"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/scss/_popover.scss",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/scss/_popover.scss"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/scss/_progress.scss",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/scss/_progress.scss"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/scss/_reboot.scss",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/scss/_reboot.scss"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/scss/_root.scss",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/scss/_root.scss"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/scss/_spinners.scss",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/scss/_spinners.scss"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/scss/_tables.scss",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/scss/_tables.scss"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/scss/_toasts.scss",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/scss/_toasts.scss"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/scss/_tooltip.scss",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/scss/_tooltip.scss"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/scss/_transitions.scss",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/scss/_transitions.scss"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/scss/_type.scss",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/scss/_type.scss"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/scss/_utilities.scss",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/scss/_utilities.scss"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/scss/_variables.scss",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/scss/_variables.scss"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/scss/bootstrap-grid.scss",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/scss/bootstrap-grid.scss"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/scss/bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/scss/bootstrap-reboot.scss"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/scss/bootstrap-utilities.scss",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/scss/bootstrap-utilities.scss"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/scss/bootstrap.scss",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/scss/bootstrap.scss"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/scss/forms/_floating-labels.scss",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/scss/forms/_floating-labels.scss"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/scss/forms/_form-check.scss",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/scss/forms/_form-check.scss"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/scss/forms/_form-control.scss",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/scss/forms/_form-control.scss"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/scss/forms/_form-range.scss",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/scss/forms/_form-range.scss"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/scss/forms/_form-select.scss",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/scss/forms/_form-select.scss"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/scss/forms/_form-text.scss",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/scss/forms/_form-text.scss"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/scss/forms/_input-group.scss",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/scss/forms/_input-group.scss"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/scss/forms/_labels.scss",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/scss/forms/_labels.scss"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/scss/forms/_validation.scss",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/scss/forms/_validation.scss"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/scss/helpers/_clearfix.scss",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/scss/helpers/_clearfix.scss"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/scss/helpers/_colored-links.scss",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/scss/helpers/_colored-links.scss"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/scss/helpers/_position.scss",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/scss/helpers/_position.scss"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/scss/helpers/_ratio.scss",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/scss/helpers/_ratio.scss"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/scss/helpers/_stretched-link.scss",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/scss/helpers/_stretched-link.scss"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/scss/helpers/_text-truncation.scss",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/scss/helpers/_text-truncation.scss"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/scss/helpers/_visually-hidden.scss",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/scss/helpers/_visually-hidden.scss"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/scss/mixins/_alert.scss",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/scss/mixins/_alert.scss"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/scss/mixins/_border-radius.scss",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/scss/mixins/_border-radius.scss"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/scss/mixins/_box-shadow.scss",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/scss/mixins/_box-shadow.scss"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/scss/mixins/_breakpoints.scss",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/scss/mixins/_breakpoints.scss"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/scss/mixins/_buttons.scss",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/scss/mixins/_buttons.scss"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/scss/mixins/_caret.scss",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/scss/mixins/_caret.scss"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/scss/mixins/_clearfix.scss",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/scss/mixins/_clearfix.scss"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/scss/mixins/_color-scheme.scss",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/scss/mixins/_color-scheme.scss"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/scss/mixins/_container.scss",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/scss/mixins/_container.scss"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/scss/mixins/_deprecate.scss",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/scss/mixins/_deprecate.scss"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/scss/mixins/_forms.scss",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/scss/mixins/_forms.scss"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/scss/mixins/_gradients.scss",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/scss/mixins/_gradients.scss"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/scss/mixins/_grid.scss",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/scss/mixins/_grid.scss"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/scss/mixins/_image.scss",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/scss/mixins/_image.scss"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/scss/mixins/_list-group.scss",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/scss/mixins/_list-group.scss"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/scss/mixins/_lists.scss",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/scss/mixins/_lists.scss"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/scss/mixins/_pagination.scss",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/scss/mixins/_pagination.scss"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/scss/mixins/_reset-text.scss",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/scss/mixins/_reset-text.scss"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/scss/mixins/_resize.scss",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/scss/mixins/_resize.scss"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/scss/mixins/_table-variants.scss",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/scss/mixins/_table-variants.scss"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/scss/mixins/_text-truncate.scss",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/scss/mixins/_text-truncate.scss"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/scss/mixins/_transition.scss",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/scss/mixins/_transition.scss"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/scss/mixins/_utilities.scss",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/scss/mixins/_utilities.scss"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/scss/mixins/_visually-hidden.scss",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/scss/mixins/_visually-hidden.scss"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/scss/utilities/_api.scss",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/scss/utilities/_api.scss"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/scss/vendor/_rfs.scss",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/scss/vendor/_rfs.scss"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/.eslintrc.json",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/.eslintrc.json"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/assets/js/application.js",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/assets/js/application.js"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/assets/js/search.js",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/assets/js/search.js"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/assets/js/vendor/anchor.min.js",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/assets/js/vendor/anchor.min.js"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/assets/js/vendor/clipboard.min.js",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/assets/js/vendor/clipboard.min.js"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/assets/scss/_ads.scss",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/assets/scss/_ads.scss"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/assets/scss/_algolia.scss",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/assets/scss/_algolia.scss"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/assets/scss/_anchor.scss",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/assets/scss/_anchor.scss"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/assets/scss/_brand.scss",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/assets/scss/_brand.scss"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/assets/scss/_buttons.scss",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/assets/scss/_buttons.scss"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/assets/scss/_callouts.scss",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/assets/scss/_callouts.scss"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/assets/scss/_clipboard-js.scss",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/assets/scss/_clipboard-js.scss"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/assets/scss/_colors.scss",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/assets/scss/_colors.scss"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/assets/scss/_component-examples.scss",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/assets/scss/_component-examples.scss"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/assets/scss/_content.scss",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/assets/scss/_content.scss"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/assets/scss/_footer.scss",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/assets/scss/_footer.scss"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/assets/scss/_layout.scss",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/assets/scss/_layout.scss"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/assets/scss/_masthead.scss",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/assets/scss/_masthead.scss"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/assets/scss/_navbar.scss",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/assets/scss/_navbar.scss"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/assets/scss/_placeholder-img.scss",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/assets/scss/_placeholder-img.scss"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/assets/scss/_sidebar.scss",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/assets/scss/_sidebar.scss"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/assets/scss/_skippy.scss",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/assets/scss/_skippy.scss"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/assets/scss/_subnav.scss",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/assets/scss/_subnav.scss"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/assets/scss/_syntax.scss",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/assets/scss/_syntax.scss"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/assets/scss/_toc.scss",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/assets/scss/_toc.scss"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/assets/scss/_variables.scss",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/assets/scss/_variables.scss"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/assets/scss/docs.scss",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/assets/scss/docs.scss"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/content/404.md",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/content/404.md"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/content/docs/5.0/_index.html",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/content/docs/5.0/_index.html"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/content/docs/5.0/about/brand.md",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/content/docs/5.0/about/brand.md"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/content/docs/5.0/about/license.md",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/content/docs/5.0/about/license.md"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/content/docs/5.0/about/overview.md",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/content/docs/5.0/about/overview.md"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/content/docs/5.0/about/team.md",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/content/docs/5.0/about/team.md"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/content/docs/5.0/about/translations.md",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/content/docs/5.0/about/translations.md"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/content/docs/5.0/components/accordion.md",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/content/docs/5.0/components/accordion.md"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/content/docs/5.0/components/alerts.md",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/content/docs/5.0/components/alerts.md"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/content/docs/5.0/components/badge.md",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/content/docs/5.0/components/badge.md"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/content/docs/5.0/components/breadcrumb.md",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/content/docs/5.0/components/breadcrumb.md"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/content/docs/5.0/components/button-group.md",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/content/docs/5.0/components/button-group.md"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/content/docs/5.0/components/buttons.md",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/content/docs/5.0/components/buttons.md"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/content/docs/5.0/components/card.md",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/content/docs/5.0/components/card.md"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/content/docs/5.0/components/carousel.md",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/content/docs/5.0/components/carousel.md"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/content/docs/5.0/components/close-button.md",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/content/docs/5.0/components/close-button.md"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/content/docs/5.0/components/collapse.md",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/content/docs/5.0/components/collapse.md"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/content/docs/5.0/components/dropdowns.md",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/content/docs/5.0/components/dropdowns.md"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/content/docs/5.0/components/list-group.md",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/content/docs/5.0/components/list-group.md"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/content/docs/5.0/components/modal.md",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/content/docs/5.0/components/modal.md"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/content/docs/5.0/components/navbar.md",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/content/docs/5.0/components/navbar.md"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/content/docs/5.0/components/navs-tabs.md",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/content/docs/5.0/components/navs-tabs.md"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/content/docs/5.0/components/offcanvas.md",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/content/docs/5.0/components/offcanvas.md"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/content/docs/5.0/components/pagination.md",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/content/docs/5.0/components/pagination.md"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/content/docs/5.0/components/popovers.md",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/content/docs/5.0/components/popovers.md"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/content/docs/5.0/components/progress.md",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/content/docs/5.0/components/progress.md"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/content/docs/5.0/components/scrollspy.md",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/content/docs/5.0/components/scrollspy.md"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/content/docs/5.0/components/spinners.md",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/content/docs/5.0/components/spinners.md"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/content/docs/5.0/components/toasts.md",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/content/docs/5.0/components/toasts.md"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/content/docs/5.0/components/tooltips.md",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/content/docs/5.0/components/tooltips.md"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/content/docs/5.0/content/figures.md",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/content/docs/5.0/content/figures.md"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/content/docs/5.0/content/images.md",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/content/docs/5.0/content/images.md"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/content/docs/5.0/content/reboot.md",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/content/docs/5.0/content/reboot.md"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/content/docs/5.0/content/tables.md",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/content/docs/5.0/content/tables.md"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/content/docs/5.0/content/typography.md",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/content/docs/5.0/content/typography.md"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/content/docs/5.0/customize/color.md",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/content/docs/5.0/customize/color.md"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/content/docs/5.0/customize/components.md",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/content/docs/5.0/customize/components.md"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/content/docs/5.0/customize/css-variables.md",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/content/docs/5.0/customize/css-variables.md"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/content/docs/5.0/customize/optimize.md",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/content/docs/5.0/customize/optimize.md"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/content/docs/5.0/customize/options.md",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/content/docs/5.0/customize/options.md"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/content/docs/5.0/customize/overview.md",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/content/docs/5.0/customize/overview.md"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/content/docs/5.0/customize/sass.md",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/content/docs/5.0/customize/sass.md"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/content/docs/5.0/examples/.stylelintrc",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/content/docs/5.0/examples/.stylelintrc"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/content/docs/5.0/examples/_index.md",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/content/docs/5.0/examples/_index.md"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/content/docs/5.0/examples/album-rtl/index.html",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/content/docs/5.0/examples/album-rtl/index.html"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/content/docs/5.0/examples/album/index.html",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/content/docs/5.0/examples/album/index.html"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/content/docs/5.0/examples/blog-rtl/index.html",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/content/docs/5.0/examples/blog-rtl/index.html"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/content/docs/5.0/examples/blog/blog.css",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/content/docs/5.0/examples/blog/blog.css"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/content/docs/5.0/examples/blog/blog.rtl.css",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/content/docs/5.0/examples/blog/blog.rtl.css"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/content/docs/5.0/examples/blog/index.html",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/content/docs/5.0/examples/blog/index.html"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/content/docs/5.0/examples/carousel-rtl/index.html",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/content/docs/5.0/examples/carousel-rtl/index.html"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/content/docs/5.0/examples/carousel/carousel.css",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/content/docs/5.0/examples/carousel/carousel.css"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/content/docs/5.0/examples/carousel/carousel.rtl.css",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/content/docs/5.0/examples/carousel/carousel.rtl.css"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/content/docs/5.0/examples/carousel/index.html",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/content/docs/5.0/examples/carousel/index.html"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/content/docs/5.0/examples/cheatsheet-rtl/index.html",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/content/docs/5.0/examples/cheatsheet-rtl/index.html"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/content/docs/5.0/examples/cheatsheet/cheatsheet.css",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/content/docs/5.0/examples/cheatsheet/cheatsheet.css"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/content/docs/5.0/examples/cheatsheet/cheatsheet.js",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/content/docs/5.0/examples/cheatsheet/cheatsheet.js"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/content/docs/5.0/examples/cheatsheet/cheatsheet.rtl.css",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/content/docs/5.0/examples/cheatsheet/cheatsheet.rtl.css"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/content/docs/5.0/examples/cheatsheet/index.html",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/content/docs/5.0/examples/cheatsheet/index.html"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/content/docs/5.0/examples/checkout-rtl/index.html",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/content/docs/5.0/examples/checkout-rtl/index.html"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/content/docs/5.0/examples/checkout/form-validation.css",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/content/docs/5.0/examples/checkout/form-validation.css"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/content/docs/5.0/examples/checkout/form-validation.js",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/content/docs/5.0/examples/checkout/form-validation.js"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/content/docs/5.0/examples/checkout/index.html",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/content/docs/5.0/examples/checkout/index.html"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/content/docs/5.0/examples/cover/cover.css",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/content/docs/5.0/examples/cover/cover.css"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/content/docs/5.0/examples/cover/index.html",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/content/docs/5.0/examples/cover/index.html"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/content/docs/5.0/examples/dashboard-rtl/dashboard.js",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/content/docs/5.0/examples/dashboard-rtl/dashboard.js"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/content/docs/5.0/examples/dashboard-rtl/index.html",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/content/docs/5.0/examples/dashboard-rtl/index.html"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/content/docs/5.0/examples/dashboard/dashboard.css",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/content/docs/5.0/examples/dashboard/dashboard.css"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/content/docs/5.0/examples/dashboard/dashboard.js",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/content/docs/5.0/examples/dashboard/dashboard.js"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/content/docs/5.0/examples/dashboard/dashboard.rtl.css",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/content/docs/5.0/examples/dashboard/dashboard.rtl.css"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/content/docs/5.0/examples/dashboard/index.html",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/content/docs/5.0/examples/dashboard/index.html"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/content/docs/5.0/examples/features/features.css",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/content/docs/5.0/examples/features/features.css"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/content/docs/5.0/examples/features/index.html",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/content/docs/5.0/examples/features/index.html"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/content/docs/5.0/examples/features/unsplash-photo-1.jpg",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/content/docs/5.0/examples/features/unsplash-photo-1.jpg"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/content/docs/5.0/examples/features/unsplash-photo-2.jpg",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/content/docs/5.0/examples/features/unsplash-photo-2.jpg"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/content/docs/5.0/examples/features/unsplash-photo-3.jpg",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/content/docs/5.0/examples/features/unsplash-photo-3.jpg"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/content/docs/5.0/examples/grid/grid.css",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/content/docs/5.0/examples/grid/grid.css"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/content/docs/5.0/examples/grid/index.html",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/content/docs/5.0/examples/grid/index.html"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/content/docs/5.0/examples/headers/headers.css",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/content/docs/5.0/examples/headers/headers.css"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/content/docs/5.0/examples/headers/index.html",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/content/docs/5.0/examples/headers/index.html"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/content/docs/5.0/examples/heroes/bootstrap-docs.png",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/content/docs/5.0/examples/heroes/bootstrap-docs.png"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/content/docs/5.0/examples/heroes/bootstrap-themes.png",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/content/docs/5.0/examples/heroes/bootstrap-themes.png"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/content/docs/5.0/examples/heroes/heroes.css",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/content/docs/5.0/examples/heroes/heroes.css"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/content/docs/5.0/examples/heroes/index.html",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/content/docs/5.0/examples/heroes/index.html"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/content/docs/5.0/examples/jumbotron/index.html",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/content/docs/5.0/examples/jumbotron/index.html"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/content/docs/5.0/examples/masonry/index.html",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/content/docs/5.0/examples/masonry/index.html"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/content/docs/5.0/examples/navbar-bottom/index.html",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/content/docs/5.0/examples/navbar-bottom/index.html"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/content/docs/5.0/examples/navbar-fixed/index.html",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/content/docs/5.0/examples/navbar-fixed/index.html"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/content/docs/5.0/examples/navbar-fixed/navbar-top-fixed.css",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/content/docs/5.0/examples/navbar-fixed/navbar-top-fixed.css"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/content/docs/5.0/examples/navbar-static/index.html",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/content/docs/5.0/examples/navbar-static/index.html"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/content/docs/5.0/examples/navbar-static/navbar-top.css",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/content/docs/5.0/examples/navbar-static/navbar-top.css"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/content/docs/5.0/examples/navbars/index.html",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/content/docs/5.0/examples/navbars/index.html"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/content/docs/5.0/examples/navbars/navbar.css",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/content/docs/5.0/examples/navbars/navbar.css"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/content/docs/5.0/examples/offcanvas-navbar/index.html",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/content/docs/5.0/examples/offcanvas-navbar/index.html"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/content/docs/5.0/examples/offcanvas-navbar/offcanvas.css",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/content/docs/5.0/examples/offcanvas-navbar/offcanvas.css"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/content/docs/5.0/examples/offcanvas-navbar/offcanvas.js",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/content/docs/5.0/examples/offcanvas-navbar/offcanvas.js"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/content/docs/5.0/examples/pricing/index.html",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/content/docs/5.0/examples/pricing/index.html"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/content/docs/5.0/examples/pricing/pricing.css",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/content/docs/5.0/examples/pricing/pricing.css"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/content/docs/5.0/examples/product/index.html",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/content/docs/5.0/examples/product/index.html"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/content/docs/5.0/examples/product/product.css",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/content/docs/5.0/examples/product/product.css"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/content/docs/5.0/examples/sidebars/index.html",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/content/docs/5.0/examples/sidebars/index.html"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/content/docs/5.0/examples/sidebars/sidebars.css",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/content/docs/5.0/examples/sidebars/sidebars.css"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/content/docs/5.0/examples/sidebars/sidebars.js",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/content/docs/5.0/examples/sidebars/sidebars.js"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/content/docs/5.0/examples/sign-in/index.html",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/content/docs/5.0/examples/sign-in/index.html"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/content/docs/5.0/examples/sign-in/signin.css",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/content/docs/5.0/examples/sign-in/signin.css"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/content/docs/5.0/examples/starter-template/index.html",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/content/docs/5.0/examples/starter-template/index.html"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/content/docs/5.0/examples/starter-template/starter-template.css",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/content/docs/5.0/examples/starter-template/starter-template.css"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/content/docs/5.0/examples/sticky-footer-navbar/index.html",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/content/docs/5.0/examples/sticky-footer-navbar/index.html"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/content/docs/5.0/examples/sticky-footer-navbar/sticky-footer-navbar.css",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/content/docs/5.0/examples/sticky-footer-navbar/sticky-footer-navbar.css"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/content/docs/5.0/examples/sticky-footer/index.html",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/content/docs/5.0/examples/sticky-footer/index.html"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/content/docs/5.0/examples/sticky-footer/sticky-footer.css",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/content/docs/5.0/examples/sticky-footer/sticky-footer.css"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/content/docs/5.0/extend/approach.md",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/content/docs/5.0/extend/approach.md"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/content/docs/5.0/extend/icons.md",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/content/docs/5.0/extend/icons.md"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/content/docs/5.0/forms/checks-radios.md",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/content/docs/5.0/forms/checks-radios.md"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/content/docs/5.0/forms/floating-labels.md",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/content/docs/5.0/forms/floating-labels.md"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/content/docs/5.0/forms/form-control.md",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/content/docs/5.0/forms/form-control.md"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/content/docs/5.0/forms/input-group.md",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/content/docs/5.0/forms/input-group.md"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/content/docs/5.0/forms/layout.md",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/content/docs/5.0/forms/layout.md"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/content/docs/5.0/forms/overview.md",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/content/docs/5.0/forms/overview.md"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/content/docs/5.0/forms/range.md",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/content/docs/5.0/forms/range.md"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/content/docs/5.0/forms/select.md",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/content/docs/5.0/forms/select.md"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/content/docs/5.0/forms/validation.md",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/content/docs/5.0/forms/validation.md"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/content/docs/5.0/getting-started/accessibility.md",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/content/docs/5.0/getting-started/accessibility.md"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/content/docs/5.0/getting-started/best-practices.md",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/content/docs/5.0/getting-started/best-practices.md"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/content/docs/5.0/getting-started/browsers-devices.md",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/content/docs/5.0/getting-started/browsers-devices.md"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/content/docs/5.0/getting-started/build-tools.md",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/content/docs/5.0/getting-started/build-tools.md"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/content/docs/5.0/getting-started/contents.md",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/content/docs/5.0/getting-started/contents.md"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/content/docs/5.0/getting-started/download.md",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/content/docs/5.0/getting-started/download.md"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/content/docs/5.0/getting-started/introduction.md",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/content/docs/5.0/getting-started/introduction.md"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/content/docs/5.0/getting-started/javascript.md",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/content/docs/5.0/getting-started/javascript.md"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/content/docs/5.0/getting-started/parcel.md",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/content/docs/5.0/getting-started/parcel.md"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/content/docs/5.0/getting-started/rfs.md",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/content/docs/5.0/getting-started/rfs.md"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/content/docs/5.0/getting-started/rtl.md",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/content/docs/5.0/getting-started/rtl.md"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/content/docs/5.0/getting-started/webpack.md",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/content/docs/5.0/getting-started/webpack.md"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/content/docs/5.0/helpers/clearfix.md",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/content/docs/5.0/helpers/clearfix.md"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/content/docs/5.0/helpers/colored-links.md",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/content/docs/5.0/helpers/colored-links.md"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/content/docs/5.0/helpers/position.md",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/content/docs/5.0/helpers/position.md"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/content/docs/5.0/helpers/ratio.md",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/content/docs/5.0/helpers/ratio.md"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/content/docs/5.0/helpers/stretched-link.md",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/content/docs/5.0/helpers/stretched-link.md"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/content/docs/5.0/helpers/text-truncation.md",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/content/docs/5.0/helpers/text-truncation.md"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/content/docs/5.0/helpers/visually-hidden.md",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/content/docs/5.0/helpers/visually-hidden.md"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/content/docs/5.0/layout/breakpoints.md",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/content/docs/5.0/layout/breakpoints.md"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/content/docs/5.0/layout/columns.md",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/content/docs/5.0/layout/columns.md"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/content/docs/5.0/layout/containers.md",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/content/docs/5.0/layout/containers.md"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/content/docs/5.0/layout/grid.md",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/content/docs/5.0/layout/grid.md"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/content/docs/5.0/layout/gutters.md",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/content/docs/5.0/layout/gutters.md"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/content/docs/5.0/layout/utilities.md",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/content/docs/5.0/layout/utilities.md"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/content/docs/5.0/layout/z-index.md",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/content/docs/5.0/layout/z-index.md"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/content/docs/5.0/migration.md",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/content/docs/5.0/migration.md"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/content/docs/5.0/utilities/api.md",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/content/docs/5.0/utilities/api.md"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/content/docs/5.0/utilities/background.md",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/content/docs/5.0/utilities/background.md"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/content/docs/5.0/utilities/borders.md",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/content/docs/5.0/utilities/borders.md"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/content/docs/5.0/utilities/colors.md",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/content/docs/5.0/utilities/colors.md"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/content/docs/5.0/utilities/display.md",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/content/docs/5.0/utilities/display.md"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/content/docs/5.0/utilities/flex.md",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/content/docs/5.0/utilities/flex.md"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/content/docs/5.0/utilities/float.md",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/content/docs/5.0/utilities/float.md"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/content/docs/5.0/utilities/interactions.md",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/content/docs/5.0/utilities/interactions.md"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/content/docs/5.0/utilities/overflow.md",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/content/docs/5.0/utilities/overflow.md"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/content/docs/5.0/utilities/position.md",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/content/docs/5.0/utilities/position.md"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/content/docs/5.0/utilities/shadows.md",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/content/docs/5.0/utilities/shadows.md"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/content/docs/5.0/utilities/sizing.md",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/content/docs/5.0/utilities/sizing.md"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/content/docs/5.0/utilities/spacing.md",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/content/docs/5.0/utilities/spacing.md"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/content/docs/5.0/utilities/text.md",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/content/docs/5.0/utilities/text.md"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/content/docs/5.0/utilities/vertical-align.md",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/content/docs/5.0/utilities/vertical-align.md"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/content/docs/5.0/utilities/visibility.md",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/content/docs/5.0/utilities/visibility.md"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/content/docs/_index.html",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/content/docs/_index.html"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/content/docs/versions.md",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/content/docs/versions.md"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/data/breakpoints.yml",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/data/breakpoints.yml"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/data/colors.yml",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/data/colors.yml"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/data/core-team.yml",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/data/core-team.yml"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/data/docs-versions.yml",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/data/docs-versions.yml"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/data/examples.yml",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/data/examples.yml"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/data/grays.yml",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/data/grays.yml"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/data/icons.yml",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/data/icons.yml"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/data/sidebar.yml",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/data/sidebar.yml"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/data/theme-colors.yml",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/data/theme-colors.yml"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/data/translations.yml",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/data/translations.yml"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/layouts/_default/404.html",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/layouts/_default/404.html"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/layouts/_default/baseof.html",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/layouts/_default/baseof.html"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/layouts/_default/docs.html",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/layouts/_default/docs.html"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/layouts/_default/examples.html",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/layouts/_default/examples.html"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/layouts/_default/home.html",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/layouts/_default/home.html"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/layouts/_default/redirect.html",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/layouts/_default/redirect.html"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/layouts/_default/single.html",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/layouts/_default/single.html"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/layouts/alias.html",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/layouts/alias.html"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/layouts/partials/ads.html",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/layouts/partials/ads.html"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/layouts/partials/analytics.html",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/layouts/partials/analytics.html"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/layouts/partials/callout-danger-async-methods.md",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/layouts/partials/callout-danger-async-methods.md"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/layouts/partials/callout-info-mediaqueries-breakpoints.md",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/layouts/partials/callout-info-mediaqueries-breakpoints.md"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/layouts/partials/callout-info-npm-starter.md",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/layouts/partials/callout-info-npm-starter.md"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/layouts/partials/callout-info-prefersreducedmotion.md",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/layouts/partials/callout-info-prefersreducedmotion.md"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/layouts/partials/callout-info-sanitizer.md",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/layouts/partials/callout-info-sanitizer.md"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/layouts/partials/callout-warning-color-assistive-technologies.md",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/layouts/partials/callout-warning-color-assistive-technologies.md"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/layouts/partials/callout-warning-input-support.md",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/layouts/partials/callout-warning-input-support.md"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/layouts/partials/docs-navbar.html",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/layouts/partials/docs-navbar.html"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/layouts/partials/docs-sidebar.html",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/layouts/partials/docs-sidebar.html"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/layouts/partials/docs-subnav.html",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/layouts/partials/docs-subnav.html"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/layouts/partials/docs-versions.html",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/layouts/partials/docs-versions.html"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/layouts/partials/favicons.html",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/layouts/partials/favicons.html"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/layouts/partials/footer.html",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/layouts/partials/footer.html"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/layouts/partials/header.html",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/layouts/partials/header.html"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/layouts/partials/home/masthead-followup.html",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/layouts/partials/home/masthead-followup.html"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/layouts/partials/home/masthead.html",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/layouts/partials/home/masthead.html"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/layouts/partials/icons/bootstrap-logo-solid.svg",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/layouts/partials/icons/bootstrap-logo-solid.svg"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/layouts/partials/icons/bootstrap-white-fill.svg",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/layouts/partials/icons/bootstrap-white-fill.svg"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/layouts/partials/icons/bootstrap.svg",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/layouts/partials/icons/bootstrap.svg"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/layouts/partials/icons/circle-square.svg",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/layouts/partials/icons/circle-square.svg"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/layouts/partials/icons/cloud-fill.svg",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/layouts/partials/icons/cloud-fill.svg"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/layouts/partials/icons/code.svg",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/layouts/partials/icons/code.svg"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/layouts/partials/icons/collapse.svg",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/layouts/partials/icons/collapse.svg"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/layouts/partials/icons/droplet-fill.svg",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/layouts/partials/icons/droplet-fill.svg"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/layouts/partials/icons/expand.svg",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/layouts/partials/icons/expand.svg"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/layouts/partials/icons/github.svg",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/layouts/partials/icons/github.svg"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/layouts/partials/icons/hamburger.svg",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/layouts/partials/icons/hamburger.svg"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/layouts/partials/icons/homepage-hero.svg",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/layouts/partials/icons/homepage-hero.svg"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/layouts/partials/icons/list.svg",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/layouts/partials/icons/list.svg"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/layouts/partials/icons/menu.svg",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/layouts/partials/icons/menu.svg"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/layouts/partials/icons/opencollective.svg",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/layouts/partials/icons/opencollective.svg"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/layouts/partials/icons/slack.svg",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/layouts/partials/icons/slack.svg"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/layouts/partials/icons/twitter.svg",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/layouts/partials/icons/twitter.svg"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/layouts/partials/redirect.html",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/layouts/partials/redirect.html"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/layouts/partials/scripts.html",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/layouts/partials/scripts.html"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/layouts/partials/skippy.html",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/layouts/partials/skippy.html"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/layouts/partials/social.html",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/layouts/partials/social.html"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/layouts/partials/stylesheet.html",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/layouts/partials/stylesheet.html"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/layouts/partials/table-content.html",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/layouts/partials/table-content.html"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/layouts/robots.txt",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/layouts/robots.txt"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/layouts/shortcodes/bs-table.html",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/layouts/shortcodes/bs-table.html"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/layouts/shortcodes/callout.html",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/layouts/shortcodes/callout.html"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/layouts/shortcodes/docsref.html",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/layouts/shortcodes/docsref.html"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/layouts/shortcodes/example.html",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/layouts/shortcodes/example.html"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/layouts/shortcodes/markdown.html",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/layouts/shortcodes/markdown.html"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/layouts/shortcodes/param.html",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/layouts/shortcodes/param.html"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/layouts/shortcodes/partial.html",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/layouts/shortcodes/partial.html"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/layouts/shortcodes/placeholder.html",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/layouts/shortcodes/placeholder.html"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/layouts/shortcodes/scss-docs.html",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/layouts/shortcodes/scss-docs.html"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/layouts/shortcodes/table.html",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/layouts/shortcodes/table.html"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/layouts/shortcodes/year.html",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/layouts/shortcodes/year.html"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/layouts/sitemap.xml",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/layouts/sitemap.xml"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/static/CNAME",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/static"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/static/docs/5.0/assets/brand/bootstrap-logo-black.svg",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/static/docs/5.0/assets/brand/bootstrap-logo-black.svg"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/static/docs/5.0/assets/brand/bootstrap-logo-shadow.png",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/static/docs/5.0/assets/brand/bootstrap-logo-shadow.png"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/static/docs/5.0/assets/brand/bootstrap-logo-white.svg",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/static/docs/5.0/assets/brand/bootstrap-logo-white.svg"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/static/docs/5.0/assets/brand/bootstrap-logo.svg",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/static/docs/5.0/assets/brand/bootstrap-logo.svg"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/static/docs/5.0/assets/brand/bootstrap-social-logo.png",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/static/docs/5.0/assets/brand/bootstrap-social-logo.png"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/static/docs/5.0/assets/brand/bootstrap-social.png",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/static/docs/5.0/assets/brand/bootstrap-social.png"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/static/docs/5.0/assets/img/bootstrap-icons.png",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/static/docs/5.0/assets/img/bootstrap-icons.png"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/static/docs/5.0/assets/img/bootstrap-icons@2x.png",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/static/docs/5.0/assets/img/bootstrap-icons@2x.png"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/static/docs/5.0/assets/img/bootstrap-themes-collage.png",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/static/docs/5.0/assets/img/bootstrap-themes-collage.png"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/static/docs/5.0/assets/img/bootstrap-themes-collage@2x.png",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/static/docs/5.0/assets/img/bootstrap-themes-collage@2x.png"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/static/docs/5.0/assets/img/bootstrap-themes.png",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/static/docs/5.0/assets/img/bootstrap-themes.png"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/static/docs/5.0/assets/img/bootstrap-themes@2x.png",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/static/docs/5.0/assets/img/bootstrap-themes@2x.png"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/album-rtl.png",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/album-rtl.png"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/album-rtl@2x.png",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/album-rtl@2x.png"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/album.png",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/album.png"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/album@2x.png",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/album@2x.png"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/blog-rtl.png",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/blog-rtl.png"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/blog-rtl@2x.png",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/blog-rtl@2x.png"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/blog.png",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/blog.png"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/blog@2x.png",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/blog@2x.png"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/carousel-rtl.png",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/carousel-rtl.png"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/carousel-rtl@2x.png",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/carousel-rtl@2x.png"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/carousel.png",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/carousel.png"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/carousel@2x.png",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/carousel@2x.png"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/cheatsheet-rtl.png",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/cheatsheet-rtl.png"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/cheatsheet-rtl@2x.png",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/cheatsheet-rtl@2x.png"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/cheatsheet.png",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/cheatsheet.png"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/cheatsheet@2x.png",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/cheatsheet@2x.png"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/checkout-rtl.png",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/checkout-rtl.png"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/checkout-rtl@2x.png",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/checkout-rtl@2x.png"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/checkout.png",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/checkout.png"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/checkout@2x.png",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/checkout@2x.png"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/cover.png",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/cover.png"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/cover@2x.png",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/cover@2x.png"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/dashboard-rtl.png",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/dashboard-rtl.png"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/dashboard-rtl@2x.png",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/dashboard-rtl@2x.png"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/dashboard.png",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/dashboard.png"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/dashboard@2x.png",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/dashboard@2x.png"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/features.png",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/features.png"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/features@2x.png",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/features@2x.png"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/grid.png",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/grid.png"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/grid@2x.png",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/grid@2x.png"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/headers.png",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/headers.png"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/headers@2x.png",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/headers@2x.png"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/heroes.png",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/heroes.png"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/heroes@2x.png",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/heroes@2x.png"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/jumbotron.png",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/jumbotron.png"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/jumbotron@2x.png",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/jumbotron@2x.png"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/masonry.png",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/masonry.png"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/masonry@2x.png",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/masonry@2x.png"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/navbar-bottom.png",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/navbar-bottom.png"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/navbar-bottom@2x.png",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/navbar-bottom@2x.png"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/navbar-fixed.png",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/navbar-fixed.png"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/navbar-fixed@2x.png",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/navbar-fixed@2x.png"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/navbar-static.png",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/navbar-static.png"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/navbar-static@2x.png",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/navbar-static@2x.png"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/navbars.png",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/navbars.png"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/navbars@2x.png",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/navbars@2x.png"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/offcanvas-navbar.png",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/offcanvas-navbar.png"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/offcanvas-navbar@2x.png",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/offcanvas-navbar@2x.png"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/pricing.png",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/pricing.png"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/pricing@2x.png",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/pricing@2x.png"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/product.png",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/product.png"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/product@2x.png",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/product@2x.png"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/sidebars.png",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/sidebars.png"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/sidebars@2x.png",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/sidebars@2x.png"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/sign-in.png",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/sign-in.png"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/sign-in@2x.png",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/sign-in@2x.png"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/starter-template.png",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/starter-template.png"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/starter-template@2x.png",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/starter-template@2x.png"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/sticky-footer-navbar.png",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/sticky-footer-navbar.png"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/sticky-footer-navbar@2x.png",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/sticky-footer-navbar@2x.png"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/sticky-footer.png",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/sticky-footer.png"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/sticky-footer@2x.png",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/sticky-footer@2x.png"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/static/docs/5.0/assets/img/favicons/android-chrome-192x192.png",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/static/docs/5.0/assets/img/favicons/android-chrome-192x192.png"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/static/docs/5.0/assets/img/favicons/android-chrome-512x512.png",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/static/docs/5.0/assets/img/favicons/android-chrome-512x512.png"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/static/docs/5.0/assets/img/favicons/apple-touch-icon.png",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/static/docs/5.0/assets/img/favicons/apple-touch-icon.png"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/static/docs/5.0/assets/img/favicons/favicon-16x16.png",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/static/docs/5.0/assets/img/favicons/favicon-16x16.png"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/static/docs/5.0/assets/img/favicons/favicon-32x32.png",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/static/docs/5.0/assets/img/favicons/favicon-32x32.png"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/static/docs/5.0/assets/img/favicons/favicon.ico",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/static/docs/5.0/assets/img/favicons/favicon.ico"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/static/docs/5.0/assets/img/favicons/manifest.json",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/static/docs/5.0/assets/img/favicons/manifest.json"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/static/docs/5.0/assets/img/favicons/safari-pinned-tab.svg",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/static/docs/5.0/assets/img/favicons/safari-pinned-tab.svg"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/static/docs/5.0/assets/js/validate-forms.js",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/static/docs/5.0/assets/js/validate-forms.js"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/bootstrap-5.0.2/site/static/sw.js",
+      "PackagePath": "staticwebassets/img/bootstrap-5.0.2/site/static/sw.js"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/heroImage.jpg",
+      "PackagePath": "staticwebassets/img/heroImage.jpg"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/img/heroImage.png",
+      "PackagePath": "staticwebassets/img/heroImage.png"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/js/site.js",
+      "PackagePath": "staticwebassets/js/site.js"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/lib/bootstrap/LICENSE",
+      "PackagePath": "staticwebassets/lib/bootstrap"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css.map"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css.map"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js.map"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js.map"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js.map"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/LICENSE.txt"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/lib/jquery-validation/LICENSE.md",
+      "PackagePath": "staticwebassets/lib/jquery-validation/LICENSE.md"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/lib/jquery-validation/dist/additional-methods.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.js"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.min.js"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.js"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.min.js"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/lib/jquery/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery/LICENSE.txt"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/lib/jquery/dist/jquery.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.js"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/lib/jquery/dist/jquery.min.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.js"
+    },
+    {
+      "Id": "/Users/benjaminaho/Documents/newProject/ExplorPlanner/wwwroot/lib/jquery/dist/jquery.min.map",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.map"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.ExplorPlanner.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.build.ExplorPlanner.props",
+      "PackagePath": "build\\ExplorPlanner.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.ExplorPlanner.props",
+      "PackagePath": "buildMultiTargeting\\ExplorPlanner.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.ExplorPlanner.props",
+      "PackagePath": "buildTransitive\\ExplorPlanner.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

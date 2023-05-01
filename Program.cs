@@ -1,7 +1,13 @@
+using IExplorPlanner;
+using ExplorPlanner.Services;
+// ... other using statements
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+builder.Services.AddScoped<IEventService, EventService>(); // Add this line
+
 builder.Services.AddDbContext<Context>();
 var app = builder.Build();
 

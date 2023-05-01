@@ -1,0 +1,15 @@
+using System;
+using System.Collections.Generic;
+using ExplorPlanner.Models;
+
+namespace IExplorPlanner
+{          
+    public class IEventService
+    {                 
+        public List<IUpcomingEvent> UpcomingEvents { get; set; }
+        public List<IPastEvent> PastEvents { get; set; }
+
+        public List<IEvent> Events { get; set; }
+    }
+}
+ 

@@ -27,5 +27,54 @@ namespace System.Web.Mvc
             return await _context.Events.FindAsync(id);
         }
 
+        public async Task<List<Event>> ReturnUpcomingEvents()
+        {
+            var currentDate = DateTime.UtcNow;
+            return await _context.Events
+                .Where(x => x.StartTime > currentDate)
+                .OrderBy(x => x.StartTime)
+                .ToListAsync();
+        }
+
+        public async Task<List<Event>> GetEventsWithPagination(int pageNumber, int pageSize)
+        {
+            return await _context.Events
+                .Skip((pageNumber - 1) * pageSize)
+                .Take(pageSize)
+                .ToListAsync();
+        }
+
+        public async Task<List<Event>> SearchEvents(string searchQuery)
+        {
+            return await _context.Events
+                .Where(x => x.EventName.Contains(searchQuery))
+                .ToListAsync();
+        }
+
+        public async Task<Event> CreateEvent(Event newEvent)
+        {
+            _context.Events.Add(newEvent);
+            await _context.SaveChangesAsync();
+            return newEvent;
+        }
+
+        public async Task<Event> UpdateEvent(Event updatedEvent)
+        {
+            _context.Entry(updatedEvent).State = EntityState.Modified;
+            await _context.SaveChangesAsync();
+            return updatedEvent;
+        }
+
+        public async Task<Event> DeleteEvent(Guid eventId)
+        {
+            var eventToRemove = await _context.Events.FindAsync(eventId);
+            if (eventToRemove != null)
+            {
+                _context.Events.Remove(eventToRemove);
+                await _context.SaveChangesAsync();
+            }
+            return eventToRemove;
+        }
+
     }
 }

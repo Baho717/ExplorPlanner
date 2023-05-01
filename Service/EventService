@@ -53,8 +53,16 @@ namespace System.Web.Mvc
 
         public async Task<Event> CreateEvent(Event newEvent)
         {
-            _context.Events.Add(newEvent);
-            await _context.SaveChangesAsync();
+            if (_context.Events is not null)
+            {
+                _context.Events.Add(newEvent);
+                await _context.SaveChangesAsync();
+            }
+            else
+            {
+                throw new InvalidOperationException("The 'Events' DbSet is null.");
+            }
+
             return newEvent;
         }
 
@@ -67,14 +75,20 @@ namespace System.Web.Mvc
 
         public async Task<Event> DeleteEvent(Guid eventId)
         {
-            var eventToRemove = await _context.Events.FindAsync(eventId);
-            if (eventToRemove != null)
+            if (_context.Events is not null)
             {
-                _context.Events.Remove(eventToRemove);
-                await _context.SaveChangesAsync();
+                var eventToRemove = await _context.Events.FindAsync(eventId);
+                if (eventToRemove != null)
+                {
+                    _context.Events.Remove(eventToRemove);
+                    await _context.SaveChangesAsync();
+                }
+                return eventToRemove;
             }
-            return eventToRemove;
+            else
+            {
+                throw new InvalidOperationException("The 'Events' DbSet is null.");
+            }
         }
-
     }
 }

@@ -1,15 +1,19 @@
 using System;
 using System.Collections.Generic;
+using System.Threading.Tasks;
 using ExplorPlanner.Models;
 
-namespace IExplorPlanner
-{          
-    public class IEventService
-    {                 
-        public List<IUpcomingEvent> UpcomingEvents { get; set; }
-        public List<IPastEvent> PastEvents { get; set; }
-
-        public List<IEvent> Events { get; set; }
+namespace ExplorPlanner.Service
+{
+    public interface IEventService
+    {
+        Task<List<Event>> GetAllEvents();
+        Task<Event> GetEvent(Guid eventId);
+        Task<Event> CreateEvent(Event newEvent);
+        Task<Event> UpdateEvent(Event updatedEvent);
+        Task<Event> DeleteEvent(Guid eventId);
+        Task<List<Event>> SearchEvents(string searchQuery);
+        Task<List<Event>> GetEventsWithPagination(int pageNumber, int pageSize);
+        Task<List<Event>> ReturnUpcomingEvents();
     }
 }
- 
